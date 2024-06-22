@@ -1,4 +1,4 @@
-# todo
+# THIS IS A SIMPLE FLUTTER E-COMMERCE APPLICATION 
 
 A new Flutter project.
 
